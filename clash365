@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: sg2.31vpn.com, server: icook.hk, port: 443, type: vmess, uuid: 9dc0c6aa-39a1-46be-9938-85999e3c3498, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /fastssh/ayeyft3z/634cf86c96c88/, headers: {Host: sg2.31vpn.com}}}
+  - {name: sg2.31vpn.com, server: icook.hk, port: 443, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /opentunnel?user=opentunnel.net-ayeyft3z, headers: {Host: sgv-3.openv2ray.com}}}
   - {name: 🇺🇲 us2.31vpn.com, server: icook.hk, port: 443, type: vmess, uuid: 2ef64dc8-ca3c-45b8-ad5f-20871452143b, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /fastssh/ayeyft3z/634bee3d4bb38/, headers: {Host: us2.31vpn.com}}}
 proxy-groups:
   - name: 🚀 节点选择
