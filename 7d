@@ -7,9 +7,9 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: 7d1, server: cl1.mcetf.eu.org, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d2, server: cl2.mcetf.eu.org, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: 7d3, server: ip125.com, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: 7d4, server: ahhhhfs.com, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: 7d5, server: computerhope.com, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: 7d3, server: cl3.mcetf.eu.org, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: 7d4, server: cl4.mcetf.eu.org, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: 7d5, server: cl5.mcetf.eu.org, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d6, server: techplanet.today, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d7, server: pcpartpicker.com, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d8, server: notebookcheck.com, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
