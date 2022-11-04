@@ -5,15 +5,15 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: tomato1, server: 172.64.145.2, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato2, server: 172.64.147.9, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato3, server: 172.64.157.175, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato4, server: 172.64.156.47, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato5, server: 172.64.159.26, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato6, server: 172.64.154.86, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato7, server: 172.64.148.47, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato8, server: 172.64.155.28, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato9, server: 172.64.153.66, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato1, server: cl1.mcetf.eu.org, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato2, server: cl2.mcetf.eu.org, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato3, server: cl3.mcetf.eu.org, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato4, server: cl4.mcetf.eu.org, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato5, server: cl5.mcetf.eu.org, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato6, server: notebookcheck.com, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato7, server: pcpartpicker.com, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato8, server: techplanet.today, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato9, server: ahhhhfs.com, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: tomato10, server: icook.hk, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
 proxy-groups:
   - name: 🚀 节点选择
