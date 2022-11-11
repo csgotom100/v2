@@ -10,11 +10,11 @@ proxies:
   - {name: tomato3, server: cl3.mcetf.eu.org, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: tomato4, server: cl4.mcetf.eu.org, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: tomato5, server: cl5.mcetf.eu.org, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato6, server: notebookcheck.com, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato7, server: pcpartpicker.com, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato8, server: techplanet.today, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato9, server: ahhhhfs.com, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: tomato10, server: icook.hk, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato6, server: 104.18.44.94, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato7, server: 104.17.184.196, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato8, server: 104.18.32.18, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato9, server: 104.17.216.13, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: tomato10, server: 104.17.211.74, port: 2083, type: vmess, uuid: 8a21b84d-183e-450d-ec82-8d45855d8180, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
