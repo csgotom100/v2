@@ -11,7 +11,7 @@ proxies:
   - {name: 7d4, server: cl4.mcetf.eu.org, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d5, server: cl5.mcetf.eu.org, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d6, server: techplanet.today, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
-  - {name: 7d7, server: pcpartpicker.com, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
+  - {name: 7d7, server: icook.hk, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d8, server: notebookcheck.com, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d9, server: icook.tw, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
   - {name: 7d10, server: cdn.chigua.tk, port: 2053, type: vmess, uuid: 238d1e26-17e4-4258-979a-5750d11b645f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: xui.mycf.ml}}}
